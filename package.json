@@ -1,0 +1,15 @@
+{
+  "name": "sliders",
+  "version": "0.0.0",
+  "description": "Records 'slides' between applications for help with time tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Dom Udall <dom@synthmedia.co.uk>",
+  "license": "BSD",
+  "dependencies": {
+    "mongoose": "~3.8.0"
+  }
+}
